@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 160 160"><!--Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)--><defs><style>.st0 {
+        fill: #ffad00;
+      }
+
+      .st1 {
+        fill: #130e0e;
+      }
+
+      .st2 {
+        fill: #242046;
+      }
+
+      .st3 {
+        fill: #ff0079;
+      }
+
+      .st4 {
+        fill: #fff;
+      }
+
+      .st5 {
+        fill: #e5f0ff;
+      }
+
+      .st6 {
+        fill: #716dff;
+      }</style></defs><g id="background"><rect class="st5" x="16" y="16" width="128" height="128"/></g><g id="firework"><rect class="st2" x="106.27" y="75.95" width="1.28" height="29.64" transform="translate(103.82 230.97) rotate(-129.07)"/><rect class="st0" x="121.28" y="76.61" width="1.28" height="3.92" transform="translate(137.77 222.75) rotate(-129.07)"/><rect class="st2" x="93.98" y="83.45" width="7.37" height="29.64" transform="translate(82.93 236.02) rotate(-129.07)"/><polygon class="st6" points="90.07 109.18 93.06 106.75 91.22 98.75 88.23 101.18 90.07 109.18"/><polygon class="st6" points="96.35 104.08 99.34 101.65 97.51 93.65 94.51 96.08 96.35 104.08"/><polygon class="st6" points="102.63 98.98 105.62 96.55 103.79 88.55 100.79 90.98 102.63 98.98"/><rect class="st0" x="121.64" y="81.82" width="1.28" height="3.92" transform="translate(-12.92 144.54) rotate(-58.62)"/><rect class="st0" x="116.7" y="75.07" width="1.28" height="3.92" transform="translate(249.52 124.26) rotate(166.38)"/></g><g id="snowman"><path class="st4" d="M82.21,82.09c4.04-3.54,6.6-8.73,6.6-14.53,0-10.68-8.66-19.33-19.33-19.33s-19.33,8.66-19.33,19.33c0,5.8,2.56,10.98,6.6,14.53-10.4,4.82-17.62,15.32-17.62,27.53,0,16.77,13.59,30.36,30.35,30.36s30.35-13.59,30.35-30.36c0-12.21-7.23-22.71-17.62-27.53Z"/><polygon class="st0" points="35.72 68.23 51.74 71.32 51.74 65.15 35.72 68.23"/><circle class="st1" cx="56.82" cy="61.26" r="1.37"/></g><g id="party_hat"><polygon class="st3" points="82.07 52.85 81.41 49 74.68 51.62 82.07 52.85"/><polygon class="st0" points="74.7 51.62 81.41 49.01 80.7 44.86 66.73 50.29 74.7 51.62"/><polygon class="st3" points="79.98 40.72 65.11 46.51 63.35 49.73 66.76 50.3 80.7 44.87 79.98 40.72"/><polygon class="st0" points="65.1 46.53 79.98 40.73 79.27 36.58 68.18 40.9 65.1 46.53"/><polygon class="st3" points="68.13 40.99 79.28 36.65 78.57 32.5 71.21 35.36 68.13 40.99"/><polygon class="st0" points="71.2 35.38 78.57 32.51 77.85 28.36 74.28 29.75 71.2 35.38"/><polygon class="st3" points="77.86 28.37 77.18 24.45 74.27 29.77 77.86 28.37"/><polygon class="st0" points="81.6 24.67 78.46 24.15 81.05 22.3 80.47 21.48 77.88 23.33 78.4 20.19 77.4 20.02 76.88 23.16 75.03 20.57 74.21 21.16 76.06 23.75 72.92 23.22 72.75 24.22 75.89 24.74 73.3 26.59 73.89 27.42 76.48 25.57 75.96 28.7 76.95 28.87 77.48 25.73 79.33 28.32 80.15 27.73 78.3 25.14 81.44 25.67 81.6 24.67"/></g></svg>
